@@ -8,17 +8,19 @@ Aqui esta o link de meu protfólio acessível a todos :
 
 - **HTML**
  
-  ![HTML](https://github.com/user-attachments/assets/9dbebff6-4fa6-4d50-bc8a-a765b21a4eb7)
+![HTML](https://github.com/user-attachments/assets/e09abb85-2d2c-4e27-b6e0-3a721be0f3fc)
+
 
 
 - **CSS**
 
-  ![CSS](https://github.com/user-attachments/assets/34a7493f-7df0-41da-a709-abcb7e3a72e6)
+![CSS](https://github.com/user-attachments/assets/3d327bbb-ee9d-43bb-8c00-7f8fbaddb792)
 
  
 - **JavaScript**
  
-![JavaScript](https://github.com/user-attachments/assets/0c726fc5-4f64-4b3a-93c5-cf4789a0b8ec)
+![javaScript](https://github.com/user-attachments/assets/a7e34541-c03e-4a34-86b9-4bb9fed9f8f5)
+
 
 
  
